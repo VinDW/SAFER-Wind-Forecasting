@@ -1,0 +1,6 @@
+data/processed/safer_wind_eskom_era5_merged.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h1.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h3.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h6.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h12.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h24.csv filter=lfs diff=lfs merge=lfs -text
