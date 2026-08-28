@@ -4,6 +4,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Large processed modelling datasets are distributed via GitHub Release data-v1.0
+data/processed/safer_wind_eskom_era5_regional_model_dataset_h*.csv
+data/processed/safer_wind_eskom_era5_model_dataset_h*.csv
+
 # Local generated predictions
 results/predictions/*
 !results/predictions/.gitkeep
