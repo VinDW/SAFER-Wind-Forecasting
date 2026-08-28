@@ -1,0 +1,6 @@
+horizon_hours,selected_model,rmse_mw,mae_mw,mase,smape_pct
+1,Linear Regression,107.23,81.66,0.226,7.23
+3,Linear Regression,231.05,182.84,0.505,16.16
+6,Linear Regression,342.20,276.87,0.765,23.71
+12,CatBoost,554.12,443.75,1.226,35.76
+24,Linear Regression,553.64,450.18,1.244,36.01
