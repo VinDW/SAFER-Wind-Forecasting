@@ -1,0 +1,16 @@
+horizon_hours,model,validation_rmse_mw,selected
+1,Linear Regression,95.98,yes
+1,CatBoost,103.02,no
+1,Random Forest,154.44,no
+3,Linear Regression,188.43,yes
+3,CatBoost,201.47,no
+3,Random Forest,246.66,no
+6,Linear Regression,261.22,yes
+6,CatBoost,267.60,no
+6,Random Forest,309.44,no
+12,Linear Regression,337.74,no
+12,CatBoost,329.02,yes
+12,Random Forest,360.59,no
+24,Linear Regression,382.72,yes
+24,CatBoost,396.90,no
+24,Random Forest,397.93,no
